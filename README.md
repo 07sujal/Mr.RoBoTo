@@ -1,2 +1,3 @@
 # Mr.RoBoTo
-These applications are made by me for my personal information and this software can be installed by using command
+These applications are made by me for my personal information and this software can be installed by using command 
+smartchatbot
